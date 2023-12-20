@@ -1,0 +1,7 @@
+HTML(HyperText Markup Language)
+=> Defines the structure and content of a web page.
+=> Elements are like containers for content. The opening and closing tags, 
+tell the browser what the content the element contains.
+
+Self closing/Empty elements: 
+=> These are elements that do no have a closing tag
